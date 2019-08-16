@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/me/static/css/main.9c51b0f0.chunk.css",
+    "main.js": "/me/static/js/main.904f8a5c.chunk.js",
+    "main.js.map": "/me/static/js/main.904f8a5c.chunk.js.map",
+    "runtime~main.js": "/me/static/js/runtime~main.580e47af.js",
+    "runtime~main.js.map": "/me/static/js/runtime~main.580e47af.js.map",
+    "static/js/2.9b7ce92d.chunk.js": "/me/static/js/2.9b7ce92d.chunk.js",
+    "static/js/2.9b7ce92d.chunk.js.map": "/me/static/js/2.9b7ce92d.chunk.js.map",
+    "index.html": "/me/index.html",
+    "precache-manifest.ff1a003285eaa00c76fb1094b7cba033.js": "/me/precache-manifest.ff1a003285eaa00c76fb1094b7cba033.js",
+    "service-worker.js": "/me/service-worker.js",
+    "static/css/main.9c51b0f0.chunk.css.map": "/me/static/css/main.9c51b0f0.chunk.css.map",
+    "static/media/index.css": "/me/static/media/RobotoMono-Regular.a48ac416.ttf",
+    "static/media/furkan-ozbek.jpeg": "/me/static/media/furkan-ozbek.b9e6488e.jpeg"
+  }
+}
